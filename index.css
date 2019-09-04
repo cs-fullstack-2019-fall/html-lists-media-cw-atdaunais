@@ -1,0 +1,49 @@
+html{
+    background-color: yellow;
+}
+
+#descrip_list{
+    list-style-image: url("./img/cake.PNG");
+    float: left;
+    width: 12%;
+    margin-left: 30%;
+    padding-left: 5%;
+    background-color: slategray;
+    border: 2px solid black;
+    border-radius: 25px;
+    height: 300px;
+}
+
+header{
+    text-align: center;
+    background-color: grey;
+    color: darkred;
+    border: 2px solid black;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 25px;
+}
+
+aside{
+    float: right;
+    width: 15%;
+    padding-right: 35%;
+    border-radius: 25px;
+    margin-top: 30px;
+    margin-right: 35px;
+}
+
+footer{
+    background-color: greenyellow;
+    clear: both;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 25px;
+    border: 2px solid black;
+}
+
+#dog_pic{
+    border-radius: 25px;
+    border: 2px solid black;
+}
